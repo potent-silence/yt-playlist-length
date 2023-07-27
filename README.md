@@ -1,4 +1,4 @@
-# Welcome to this repo!
+# Welcome to this repository!
 
 ## YouTube Playlist Length Calculator
 
